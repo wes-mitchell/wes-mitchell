@@ -21,4 +21,4 @@ Feel free to shoot me a message here or via e-mail listed below.
 E-mail: wmdrums@gmail.com<br>
 Instagram: @wmdrums<br>
 Twitter: @wmdrums<br>
-[Personal Website](https://www.wmdrums.com/)
+[www.wmdrums.com](https://www.wmdrums.com/)
