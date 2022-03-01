@@ -12,7 +12,7 @@ Feel free to shoot me a message here or via e-mail listed below.
 
 ### Projects I've been working on:
 
-[📖 Daily Journal](daily-journal.md) <br>
+[📖 Daily Journal](https://github.com/wes-mitchell/daily-journal) <br>
 [:person_in_tuxedo: Congressional Representative Webpage](Congressional-Representative.md) <br>
 [:earth_americas: Hello World Group Project](hello-world-2tones.md) <br>
 
