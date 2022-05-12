@@ -12,7 +12,7 @@ Feel free to shoot me a message here or via e-mail listed below.
 
 ### Projects I've been working on:
 
-- [:guitar: Get Set](https://github.com/wes-mitchell)
+- [:guitar: Get Set](https://github.com/wes-mitchell/get-set)
 - [:camera: Mock Photography Portfolio](https://github.com/wes-mitchell/photo-fun)
 - [:beer: Miller Time](https://github.com/wes-mitchell/its-miller-time)
 - [📖 Daily Journal](https://github.com/wes-mitchell/daily-journal)
