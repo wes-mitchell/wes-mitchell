@@ -12,11 +12,10 @@ Feel free to shoot me a message here or via e-mail listed below.
 
 ### Projects I've been working on:
 
+- [:guitar: Get Set](https://github.com/wes-mitchell)
 - [:camera: Mock Photography Portfolio](https://github.com/wes-mitchell/photo-fun)
+- [:beer: Miller Time](https://github.com/wes-mitchell/its-miller-time)
 - [📖 Daily Journal](https://github.com/wes-mitchell/daily-journal)
-- [:person_in_tuxedo: Congressional Representative Webpage](https://github.com/wes-mitchell/Congressional-Representative)
-- [:earth_americas: Automated World Group Project](https://github.com/wes-mitchell/automated-world-grace-hopper-s-compilers)
-- [:earth_americas: Hello World Group Project](https://github.com/wes-mitchell/hello-world-2tones)
 
 ### How to reach me:
 
