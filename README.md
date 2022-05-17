@@ -8,7 +8,7 @@ I’m currently a full stack web developer student attending Nashville Software 
 
 * 🌍  I'm based in Nashville, TN
 * ✉️  You can contact me at [wmdrums@gmail.com](mailto:wmdrums@gmail.com)
-* 🚀  I'm currently working on [Get Set](http://https://github.com/wes-mitchell/get-set)
+* 🚀  I'm currently working on [Get Set](https://github.com/wes-mitchell/get-set)
 * 🧠  I'm learning React JS & C#
 * :globe_with_meridians: [www.wmdrums.com](https://www.wmdrums.com/)
 
