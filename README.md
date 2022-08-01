@@ -9,7 +9,7 @@ I’m currently a full stack web developer student attending Nashville Software 
 * 🌍  I'm based in Nashville, TN
 * ✉️  You can contact me at [wmdrums@gmail.com](mailto:wmdrums@gmail.com)
 * 🚀  I'm currently working on [Drum Deals](https://github.com/wes-mitchell/drums-deals)
-* 🧠  I'm learning React JS, C# and .NET
+* 🧠  I'm learning React, JS, C# and .NET
 * :globe_with_meridians: [www.wmdrums.com](https://www.wmdrums.com/)
 
 **Fun fact:** I have performed professionally on the drums in over 10 countries. 🤘
