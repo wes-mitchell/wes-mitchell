@@ -8,7 +8,7 @@ I’m currently a full stack web developer student attending Nashville Software 
 
 * 🌍  I'm based in Nashville, TN
 * ✉️  You can contact me at [wmdrums@gmail.com](mailto:wmdrums@gmail.com)
-* 🚀  I'm currently working on [Miller Time API]([https://github.com/wes-mitchell/drums-deals](https://github.com/wes-mitchell/Miller_Time_API)
+* 🚀  I'm currently working on a server side API for [Miller Time](https://github.com/wes-mitchell/Miller_Time_API)
 * 🧠  I'm learning React, JS, C# and .NET
 * :globe_with_meridians: [www.wmdrums.com](https://www.wmdrums.com/)
 
