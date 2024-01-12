@@ -4,7 +4,7 @@ Hi 👋 My name is Wesley Mitchell
 Full Stack Web Developer & Musician
 -----------------------------------
 
-I’m currently a full stack web developer student attending Nashville Software School working with cohort 55 learning fundamentals in Javascript, HTML, CSS and C# as a back end focus language. I’d be more than thrilled to collaborate and network with folks who have similar interest. Feel free to shoot me a message here or via e-mail listed below. 
+I’m a full stack web developer at PRIME Health Services and completed Nashville Software School in August of 2022 working with cohort 55. My primary languages are C#, TypeScript, Javascript and I dabble a bit with Swift when I'm looking to learn something new. I’m always open to collaborating and networking with folks who have similar interests! Feel free to shoot me a message here or via e-mail listed below. 
 
 * 🌍  I'm based in Nashville, TN
 * ✉️  You can contact me at [wmdrums@gmail.com](mailto:wmdrums@gmail.com)
