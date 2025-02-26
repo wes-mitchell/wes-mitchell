@@ -7,10 +7,11 @@ Full Stack Web Developer & Musician
 I’m a full stack web developer at Revenue Solutions Inc. and completed Nashville Software School in August of 2022 working with cohort 55. My primary languages are C#, TypeScript, Javascript and I dabble a bit with Swift when I'm looking to learn something new. I’m always open to collaborating and networking with folks who have similar interests! Feel free to shoot me a message here or via e-mail listed below. 
 
 * 🌍  I'm based in New Orleans, LA
-* ✉️  You can contact me at [wmdrums@gmail.com](mailto:wmdrums@gmail.com)
+* ✉️  You can contact me at [wmitchelldev@gmail.com](mailto:wmitchelldev@gmail.com)
 * 🚀  I'm currently working on a server side API for [Miller Time](https://github.com/wes-mitchell/Miller_Time_API)
 * 🧠  I'm learning React, JS, C# and .NET
-* :globe_with_meridians: [www.wmdrums.com](https://www.wmdrums.com/)
+* :globe_with_meridians: [PORTFOLIO](https://wes-mitchell.github.io/wes-mitchell-portfolio/)
+* :globe_with_meridians: [WMDRUMS](https://www.wmdrums.com/)
 
 **Fun fact:** I have performed professionally on the drums in over 10 countries. 🤘
 
